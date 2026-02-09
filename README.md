@@ -76,10 +76,6 @@ install.packages(c("readr", "FactoMineR", "factoextra", "NbClust", "mclust", "cl
 pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## License
-
-[Add your license]
-
 ## Citation
 
 If you use this resource, please cite:
