@@ -1,6 +1,6 @@
 # LEAP-InovAND Resource
 
-A multiscale resource to explore genetics, brain imaging, and clinical data in autism. This repository contains analysis code for the Nature Neuroscience paper.
+This repository contains analysis code for our last paper: LEAP-InovAND a multiscale resource to explore genetics, brain imaging and clinical data in autism.
 
 ## Overview
 
