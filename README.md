@@ -82,4 +82,7 @@ pandas numpy matplotlib seaborn scikit-learn
 
 ## Citation
 
-[Add citation when published]
+If you use this resource, please cite:
+
+> LEAP-InovAND: A multiscale resource to explore genetics, brain imaging, and clinical data in autism.  
+> medRxiv preprint (2025). https://doi.org/10.1101/2025.11.24.25340858
